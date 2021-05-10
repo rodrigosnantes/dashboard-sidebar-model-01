@@ -1,4 +1,4 @@
-# Modern layout page
+# Dashboard sidebar example
 
 ### `npm install`
 ### `npm start`
